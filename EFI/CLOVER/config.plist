@@ -321,6 +321,8 @@
 		<array>
 			<string>Windows</string>
 			<string>BOOTX64.EFI</string>
+			<string>Recovery</string>
+			<string>Preboot</string>
 		</array>
 		<key>Language</key>
 		<string>cn:0</string>
